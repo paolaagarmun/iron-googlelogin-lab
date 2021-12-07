@@ -1,0 +1,25 @@
+body {
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+  margin: 0 auto;
+}
+h2 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  display:inline-block;
+  margin: 40px 8px 10px 8px; 
+}
+
+input {
+  margin-bottom: 3px;;
+  width: 25vw;
+  height: 25px;
+}
+button{
+  
+  width: 25vw;
+  height: 25px;
+}
+
